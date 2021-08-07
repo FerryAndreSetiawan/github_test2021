@@ -5,6 +5,7 @@ Divisi WebDev
 4. Javascript
 5. Belajar PHP
 6. Belajar CI3
+7. Belajajr SQL
 
 Divisi Programming
 1. C++
@@ -16,3 +17,5 @@ Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+
+
